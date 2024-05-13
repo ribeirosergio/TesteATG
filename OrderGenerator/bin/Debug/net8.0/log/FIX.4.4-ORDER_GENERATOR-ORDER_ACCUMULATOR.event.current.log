@@ -1,0 +1,39 @@
+20240513-01:33:49.733 : Created session
+20240513-01:34:05.465 : Created session
+20240513-01:35:16.916 : Connecting to 127.0.0.1 on port 5000
+20240513-01:35:27.471 : Created session
+20240513-01:36:32.966 : Created session
+20240513-01:36:41.855 : Created session
+20240513-01:44:19.307 : Created session
+20240513-01:50:44.090 : Created session
+20240513-01:51:54.210 : Created session
+20240513-01:57:59.854 : Created session
+20240513-01:59:50.205 : Created session
+20240513-02:04:09.099 : Created session
+20240513-02:04:09.218 : Connecting to 127.0.0.1 on port 5000
+20240513-02:04:09.249 : Connection succeeded
+20240513-02:04:09.339 : Initiated logon request
+20240513-02:04:09.539 : Session FIX.4.4:ORDER_GENERATOR->ORDER_ACCUMULATOR disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240513-02:04:52.209 : Created session
+20240513-02:04:53.333 : Connecting to 127.0.0.1 on port 5000
+20240513-02:04:53.370 : Connection succeeded
+20240513-02:04:53.441 : Initiated logon request
+20240513-02:04:53.537 : Session FIX.4.4:ORDER_GENERATOR->ORDER_ACCUMULATOR disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240513-02:06:36.595 : Created session
+20240513-02:06:36.725 : Connecting to 127.0.0.1 on port 5000
+20240513-02:06:36.755 : Connection succeeded
+20240513-02:06:36.813 : Initiated logon request
+20240513-02:06:36.909 : Session FIX.4.4:ORDER_GENERATOR->ORDER_ACCUMULATOR disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20240513-02:07:06.489 : Created session
+20240513-02:07:06.659 : Connecting to 127.0.0.1 on port 5000
+20240513-02:07:06.701 : Connection succeeded
+20240513-02:07:06.902 : Initiated logon request
+20240513-02:07:07.018 : Session FIX.4.4:ORDER_GENERATOR->ORDER_ACCUMULATOR disconnecting: System.Net.Sockets.SocketException (10054): Foi forçado o cancelamento de uma conexão existente pelo host remoto.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
